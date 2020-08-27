@@ -70,7 +70,7 @@ header{
 }
 header.sticky{
     background:#fff;
-     padding:13px 15px;
+     padding:1px 15px;
  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
 header.sticky .logo{
