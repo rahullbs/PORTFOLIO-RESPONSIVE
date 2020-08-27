@@ -590,6 +590,11 @@ margin-bottom: 0;
             padding: 0px;
             padding-left: 18px;
         }
+        .contact .heading p {
+        color: #fff;
+        margin-right: 17px;}
+}
+    
     }
         @media (max-width:513px)
             
