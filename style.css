@@ -431,6 +431,9 @@ margin-bottom: 0;
         
     padding-right: 37px;
     }
+    *{
+        background:black;
+    }
     .menu
     {
         position: fixed;
