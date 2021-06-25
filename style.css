@@ -5,6 +5,7 @@
     box-sizing: border-box;
    font-family: 'Assistant', sans-serif;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 .banner{
  min-height: 100vh;
